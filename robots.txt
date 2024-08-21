@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://natamplas.github.io/sitemap.html.gz
+Sitemap: https://natamplas.github.io/app/sitemap.html.gz
+Sitemap: https://natamplas.github.io/assets/sitemap.html.gz
+Sitemap: https://natamplas.github.io/css/sitemap.html.gz
+Sitemap: https://natamplas.github.io/includes/sitemap.html.gz
+Sitemap: https://natamplas.github.io/item/sitemap.html.gz
+Sitemap: https://natamplas.github.io/src/sitemap.html.gz
